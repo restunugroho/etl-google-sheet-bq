@@ -3,7 +3,7 @@ ETL (Extract, Transform, Load) adalah proses yang digunakan untuk mengumpulkan, 
 
 Mini-project ini adalah pipeline ETL sederhana yang mengambil data harga komoditas pangan dari Google Sheets, membersihkannya dengan Python, dan memuatnya ke BigQuery. Kemudian data dapat divisualisasikan dengan Streamlit. 
 
-Project ETL dari Google Sheet ke Data Warehouse dilakukan ketika data diinput biasanya oleh tim lapangan / non IT ke dalam Google Sheet. 
+Project ETL dari Google Sheet ke Data Warehouse dilakukan ketika data diinput biasanya oleh tim lapangan / non IT ke dalam Google Sheet, sehingga di beberapa kasus lumrah dilakukan.
 
 ## 🔧 Tools & Teknologi
 - 🟢 Google Sheets (sebagai sumber data)
