@@ -1,6 +1,9 @@
 # 📊 ETL Komoditas Pangan: Google Sheets ➝ BigQuery ➝ Streamlit
+ETL (Extract, Transform, Load) adalah proses yang digunakan untuk mengumpulkan, memproses, dan memindahkan data dari berbagai sumber ke dalam data warehouse atau sistem lain untuk dianalisis lebih lanjut. Proses ini menjadi salah satu tulang punggung dalam pengelolaan data di banyak perusahaan, terutama yang memiliki volume data besar dan berasal dari berbagai sumber yang berbeda. Dengan menggunakan ETL, data yang tersebar dan mungkin tidak terstruktur dapat disatukan dalam satu tempat yang terorganisir dan siap untuk dianalisis.
 
-Mini-project ini adalah pipeline ETL sederhana yang mengambil data harga komoditas pangan dari Google Sheets, membersihkannya dengan Python, dan memuatnya ke BigQuery. Kemudian data dapat divisualisasikan dengan Streamlit.
+Mini-project ini adalah pipeline ETL sederhana yang mengambil data harga komoditas pangan dari Google Sheets, membersihkannya dengan Python, dan memuatnya ke BigQuery. Kemudian data dapat divisualisasikan dengan Streamlit. 
+
+Project ETL dari Google Sheet ke Data Warehouse dilakukan ketika data diinput biasanya oleh tim lapangan / non IT ke dalam Google Sheet. 
 
 ## 🔧 Tools & Teknologi
 - 🟢 Google Sheets (sebagai sumber data)
